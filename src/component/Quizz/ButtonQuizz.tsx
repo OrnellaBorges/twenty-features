@@ -1,5 +1,4 @@
 import React from "react";
-import "./styleBMI.css";
 
 export default function ButtonBMI() {
     return (
